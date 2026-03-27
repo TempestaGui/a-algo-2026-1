@@ -14,9 +14,7 @@ def f(n):
 Metodo para calculo da formula fechada
     Encontramos a formula fechada resolvendo a recorrencia. 
     F(n) = 2·F(n-1)
-
-
-    F(n) = 7·2ⁿ - 2n² - 4n - 6
+    F(n)=13⋅2n-1-n2-4n-6
 """
 
 def f_fechada(n):
